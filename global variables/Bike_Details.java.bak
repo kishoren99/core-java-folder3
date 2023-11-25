@@ -1,0 +1,11 @@
+class Bike_Details
+{
+static String name="Hero Xpluse";
+static int cost=200000;
+static String colour="White and Red";
+public static void main (String[]args)
+{
+system.out.println("Bike name and brand is"+name);
+system.out.println("Bike cost is "+cost);
+system .out .println("Bike colour is "+colour);
+}}

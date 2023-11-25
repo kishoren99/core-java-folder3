@@ -1,0 +1,15 @@
+class Car_Details 
+{
+	public static void main(String[] args) 
+	{
+			 String name="BMW X7 Series";
+		 String colour="Daytona grey";
+		 String  cost="85Lakhs";
+		tring p="Petrol Engine";
+		static String d="Diesel Engine";
+		System.out.println("Car name and model is "+name);
+		System.out.println("Car colour is "+colour);
+		System.out.println("Car on-road price is"+cost);
+		System.out.println("Car Engine fuel type is "+d);
+	}
+}

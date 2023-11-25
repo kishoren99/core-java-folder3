@@ -1,0 +1,12 @@
+class Bike_Details
+{
+String name="HERO X-Pluse 4V Rally Edition";
+		int cost=200000;
+		String colour="white and red";
+	public static void main(String[] args) 
+	{
+		System.out.println("Bike name and model is "+name);
+		System.out.println("Bike on road price is "+cost);
+System.out.println("Bike colour is"+colour);
+	}
+}

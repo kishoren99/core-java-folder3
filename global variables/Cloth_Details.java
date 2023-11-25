@@ -1,0 +1,14 @@
+class Cloth_Details 
+{
+	static String colour="white";
+	static int cost=1000;
+	static String XL="xtra large";
+	static String L="large";
+	static String S="small";
+	public static void main(String[] args) 
+	{
+		System.out.println("Cloth colour is "+colour);
+		System.out.println("Cloth cost is "+cost);
+		System.out.println("Cloth size is "+XL);
+	}
+}
